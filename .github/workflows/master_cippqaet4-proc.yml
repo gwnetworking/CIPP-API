@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippqaet4-proc'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CE4EDC608EE40A0BA598313487DCC10 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94BD1A924BDF4DD0A8DB316DDEF19CE9 }}
